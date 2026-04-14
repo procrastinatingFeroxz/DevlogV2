@@ -1,0 +1,23 @@
+{
+  "name": "devlogv2",
+  "version": "1.0.0",
+  "description": "a personal devlog tool but web based this time",
+  "keywords": [
+    "devtool"
+  ],
+  "homepage": "https://github.com/procrastinatingFeroxz/DevlogV2#readme",
+  "bugs": {
+    "url": "https://github.com/procrastinatingFeroxz/DevlogV2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/procrastinatingFeroxz/DevlogV2.git"
+  },
+  "license": "MIT",
+  "author": "feroxz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
